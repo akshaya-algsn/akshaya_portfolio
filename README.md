@@ -1,6 +1,3 @@
-Here's a **README.md** file for your portfolio repository:  
-
-```md
 # Akshaya Devi's Portfolio 🌟
 
 Welcome to my personal portfolio! 🚀 This website showcases my skills, projects, and experience as an SEO specialist and automation enthusiast.
@@ -31,6 +28,3 @@ This portfolio highlights my:
 ---
 
 🔹 *Built and maintained by Akshaya Devi* 🎉  
-```
-
-This README will help others understand your portfolio and how to explore it. Let me know if you need any modifications! 🚀
